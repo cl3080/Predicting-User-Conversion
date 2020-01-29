@@ -8,4 +8,6 @@ Here, I designed a two stage model using latent representation from autoencoder 
 ![Model](https://github.com/cl3080/Predicting-User-Conversion/blob/master/Screen%20Shot%202020-01-29%20at%209.35.54%20AM.png)
 
 
+The code can be found here:
+
 [**Jupyter notebook**](http://htmlpreview.github.io/?https://github.com/cl3080/Predicting-User-Conversion/blob/master/Predict_user_conversion.html)
